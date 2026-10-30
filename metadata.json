@@ -1,0 +1,6 @@
+{
+  "name": "Salary Daily",
+  "description": "Quick-click saloon service ledger, stylist daily salary tracking, automated WhatsApp PDF invoices, cash & GPay balancing, and monthly revenue reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
